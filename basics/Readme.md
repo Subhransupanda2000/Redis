@@ -19,7 +19,7 @@ Key features of Redis include:
 
 * Scripting: Redis supports Lua scripting, enabling users to execute custom scripts on the server side.
   # Why redis is used?
-  * Redis is used for various purposes in software development and infrastructure management due to its speed, versatility, and specific features. Some common use cases for Redis include:
+* Redis is used for various purposes in software development and infrastructure management due to its speed, versatility, and specific features. Some common use cases for Redis include:
 
 * Caching: Redis is frequently used as a caching mechanism to store frequently accessed data in memory. By keeping frequently used data close at hand, applications can respond more quickly to user requests, reducing latency and improving overall performance.
 
